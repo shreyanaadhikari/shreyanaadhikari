@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a 4th semester BSc CSIT student exploring the intersection of **data science** and **AI**. I like applying what I learn in class to small, real projects rather than leaving it on paper.
+I'm a 4th semester BSc CSIT student exploring the intersection of **data science**, **AI**, and **software engineering**. My coursework spans Artificial Intelligence, Database Management Systems, and Theory of Computation — and I like applying what I learn in class to small, real projects rather than leaving it on paper.
 
 I'm currently working toward a focused path in data science, building up Python, SQL, and ML fundamentals while keeping my C/C++ foundations sharp through coursework and lab work.
 
@@ -27,26 +27,20 @@ I'm currently working toward a focused path in data science, building up Python,
 
 **Languages**
 
-<img src="https://img.shields.io/badge/C-0a1128?style=flat-square&logo=c" height="32"/>
-<img src="https://img.shields.io/badge/C++-0a1128?style=flat-square&logo=cplusplus" height="32"/>
-<img src="https://img.shields.io/badge/Python-0a1128?style=flat-square&logo=python" height="32"/>
-<img src="https://img.shields.io/badge/SQL-0a1128?style=flat-square&logo=mysql" height="32"/>
-<img src="https://img.shields.io/badge/CSS3-0a1128?style=flat-square&logo=css3" height="32"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,css&theme=dark" />
 
-**Data Analysis & Visualization**
+**Tools**
 
-<img src="https://img.shields.io/badge/NumPy-0a1128?style=flat-square&logo=numpy" height="32"/>
-<img src="https://img.shields.io/badge/Pandas-0a1128?style=flat-square&logo=pandas" height="32"/>
-<img src="https://img.shields.io/badge/Matplotlib-0a1128?style=flat-square&logo=plotly" height="32"/>
-<img src="https://img.shields.io/badge/Seaborn-0a1128?style=flat-square&logo=python" height="32"/>
+<img src="https://skillicons.dev/icons?i=git,github,ps,qt&theme=dark" />
 
-**Tools & Design**
+**Also working with**
 
-<img src="https://img.shields.io/badge/Git-0a1128?style=flat-square&logo=git" height="32"/>
-<img src="https://img.shields.io/badge/GitHub-0a1128?style=flat-square&logo=github" height="32"/>
-<img src="https://img.shields.io/badge/MySQL_Workbench-0a1128?style=flat-square&logo=mysql" height="32"/>
-<img src="https://img.shields.io/badge/Photoshop-0a1128?style=flat-square&logo=adobephotoshop" height="32"/>
-<img src="https://img.shields.io/badge/Canva-0a1128?style=flat-square&logo=canva" height="32"/>
+<img src="https://img.shields.io/badge/NumPy-0a1128?style=for-the-badge&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Pandas-0a1128?style=for-the-badge&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Matplotlib-0a1128?style=for-the-badge&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Seaborn-0a1128?style=for-the-badge&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-0a1128?style=for-the-badge&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Canva-0a1128?style=for-the-badge&logoColor=white" height="36"/>
 
 </div>
 
