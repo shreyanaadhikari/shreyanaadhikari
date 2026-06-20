@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a 4th semester BSc CSIT student exploring the intersection of **data science**, **AI**, and **software engineering**. My coursework spans Artificial Intelligence, Database Management Systems, and Theory of Computation — and I like applying what I learn in class to small, real projects rather than leaving it on paper.
+I'm a 4th semester BSc CSIT student exploring the intersection of **data science** and **AI**. I like applying what I learn in class to small, real projects rather than leaving it on paper.
 
 I'm currently working toward a focused path in data science, building up Python, SQL, and ML fundamentals while keeping my C/C++ foundations sharp through coursework and lab work.
 
@@ -35,8 +35,8 @@ I'm currently working toward a focused path in data science, building up Python,
 
 **Also working with**
 
-<img src="https://img.shields.io/badge/NumPy-0a1128?style=for-the-badge&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Pandas-0a1128?style=for-the-badge&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/NumPy-0a1128?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="36"/>
+<img src="https://img.shields.io/badge/Pandas-0a1128?style=for-the-badge&logo=pandas&logoColor=E70488" height="36"/>
 <img src="https://img.shields.io/badge/Matplotlib-0a1128?style=for-the-badge&logoColor=white" height="36"/>
 <img src="https://img.shields.io/badge/Seaborn-0a1128?style=for-the-badge&logoColor=white" height="36"/>
 <img src="https://img.shields.io/badge/MySQL_Workbench-0a1128?style=for-the-badge&logoColor=white" height="36"/>
