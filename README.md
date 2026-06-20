@@ -5,9 +5,9 @@
 <br/>
 
 <a href="mailto:shreyanaadhikari@gmail.com">
-<img src="https://img.shields.io/badge/-shreyanaadhikari@gmail.com-0a1128?style=for-the-badge&logo=gmail&logoColor=2563eb" />
+<img src="https://img.shields.io/badge/-shreyanaadhikari@gmail.com-0a1128?style=flat-square&logo=gmail" height="30"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=shreyanaadhikari&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS&labelColor=0a1128" />
+<img src="https://komarev.com/ghpvc/?username=shreyanaadhikari&style=flat-square&color=2563eb&label=Profile+Views&labelColor=0a1128" height="30"/>
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a 4th semester BSc CSIT student exploring the intersection of **data science**, **AI**. I like applying what I learn in class to small, real projects rather than leaving it on paper.
+I'm a 4th semester BSc CSIT student exploring the intersection of **data science** and **AI**. I like applying what I learn in class to small, real projects rather than leaving it on paper.
 
 I'm currently working toward a focused path in data science, building up Python, SQL, and ML fundamentals while keeping my C/C++ foundations sharp through coursework and lab work.
 
@@ -25,26 +25,26 @@ I'm currently working toward a focused path in data science, building up Python,
 
 **Languages**
 
-<img src="https://img.shields.io/badge/C-0a1128?style=for-the-badge&logo=c&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/C++-0a1128?style=for-the-badge&logo=cplusplus&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/Python-0a1128?style=for-the-badge&logo=python&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/SQL-0a1128?style=for-the-badge&logo=mysql&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/CSS3-0a1128?style=for-the-badge&logo=css3&logoColor=2563eb" />
+<img src="https://img.shields.io/badge/C-0a1128?style=for-the-badge&logo=c" />
+<img src="https://img.shields.io/badge/C++-0a1128?style=for-the-badge&logo=cplusplus" />
+<img src="https://img.shields.io/badge/Python-0a1128?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/SQL-0a1128?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/CSS3-0a1128?style=for-the-badge&logo=css3" />
 
 **Data Analysis & Visualization**
 
-<img src="https://img.shields.io/badge/NumPy-0a1128?style=for-the-badge&logo=numpy&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/Pandas-0a1128?style=for-the-badge&logo=pandas&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/Matplotlib-0a1128?style=for-the-badge&logo=plotly&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/Seaborn-0a1128?style=for-the-badge&logo=python&logoColor=2563eb" />
+<img src="https://img.shields.io/badge/NumPy-0a1128?style=for-the-badge&logo=numpy" />
+<img src="https://img.shields.io/badge/Pandas-0a1128?style=for-the-badge&logo=pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-0a1128?style=for-the-badge&logo=plotly" />
+<img src="https://img.shields.io/badge/Seaborn-0a1128?style=for-the-badge&logo=python" />
 
 **Tools & Design**
 
-<img src="https://img.shields.io/badge/Git-0a1128?style=for-the-badge&logo=git&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/GitHub-0a1128?style=for-the-badge&logo=github&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/MySQL_Workbench-0a1128?style=for-the-badge&logo=mysql&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/Photoshop-0a1128?style=for-the-badge&logo=adobephotoshop&logoColor=2563eb" />
-<img src="https://img.shields.io/badge/Canva-0a1128?style=for-the-badge&logo=canva&logoColor=2563eb" />
+<img src="https://img.shields.io/badge/Git-0a1128?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-0a1128?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/MySQL_Workbench-0a1128?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/Photoshop-0a1128?style=for-the-badge&logo=adobephotoshop" />
+<img src="https://img.shields.io/badge/Canva-0a1128?style=for-the-badge&logo=canva" />
 
 <br/>
 
@@ -53,13 +53,12 @@ I'm currently working toward a focused path in data science, building up Python,
 **🏃 Fitaura** — [View Repo →](https://github.com/pandeysulav/SUMMER_PROJECT_CPP)
 A data-science-driven fitness tracker built around OOP principles in C++, with ML algorithms for predicting fitness trends and a Qt Widgets desktop interface. Built collaboratively.
 <br/>
-<img src="https://img.shields.io/badge/C++-0a1128?style=flat-square&logo=cplusplus&logoColor=2563eb" height="22"/> <img src="https://img.shields.io/badge/Qt-0a1128?style=flat-square&logo=qt&logoColor=2563eb" height="22"/> <img src="https://img.shields.io/badge/Machine_Learning-0a1128?style=flat-square&logoColor=2563eb" height="22"/> <img src="https://img.shields.io/badge/OOP-0a1128?style=flat-square&logoColor=2563eb" height="22"/>
+<img src="https://img.shields.io/badge/C++-0a1128?style=flat-square&logo=cplusplus" height="22"/> <img src="https://img.shields.io/badge/Qt-0a1128?style=flat-square&logo=qt" height="22"/> <img src="https://img.shields.io/badge/Machine_Learning-0a1128?style=flat-square" height="22"/> <img src="https://img.shields.io/badge/OOP-0a1128?style=flat-square" height="22"/>
 
 **🎨 CG-Project: Rocket Simulation** — [View Repo →](https://github.com/riwazzzz/CG-Project.git)
 A rocket launch simulation built to apply core Computer Graphics concepts — including 2D/3D transformations and animation rendering. Built collaboratively.
 <br/>
-<img src="https://img.shields.io/badge/Computer_Graphics-0a1128?style=flat-square&logoColor=2563eb" height="22"/> <img src="https://img.shields.io/badge/Animation-0a1128?style=flat-square&logoColor=2563eb" height="22"/>
-
+<img src="https://img.shields.io/badge/Computer_Graphics-0a1128?style=flat-square" height="22"/> <img src="https://img.shields.io/badge/Animation-0a1128?style=flat-square" height="22"/>
 
 <br/>
 
