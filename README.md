@@ -4,9 +4,7 @@
 
 <br/>
 
-<a href="mailto:shreyanaadhikari@gmail.com">
-<img src="https://img.shields.io/badge/-shreyanaadhikari@gmail.com-0a1128?style=flat-square&logo=gmail" height="50"/>
-</a>
+<img src="https://img.shields.io/badge/-shreyanaadhikari@gmail.com-0a1128?style=flat-square&logo=gmail" height="60"/>
 </div>
 
 <br/>
