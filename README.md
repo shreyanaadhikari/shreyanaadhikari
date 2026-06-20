@@ -5,10 +5,8 @@
 <br/>
 
 <a href="mailto:shreyanaadhikari@gmail.com">
-<img src="https://img.shields.io/badge/-shreyanaadhikari@gmail.com-0a1128?style=flat-square&logo=gmail" height="30"/>
+<img src="https://img.shields.io/badge/-shreyanaadhikari@gmail.com-0a1128?style=flat-square&logo=gmail" height="42"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=shreyanaadhikari&style=flat-square&color=2563eb&label=Profile+Views&labelColor=0a1128" height="30"/>
-
 </div>
 
 <br/>
