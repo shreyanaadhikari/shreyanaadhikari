@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a 4th semester BSc CSIT student exploring the intersection of **data science** and **AI**. I like applying what I learn in class to small, real projects rather than leaving it on paper.
+I'm a 4th semester BSc. CSIT student exploring the intersection of **data science** and **AI**. I like applying what I learn in class to small, real projects rather than leaving it on paper.
 
 I'm currently working toward a focused path in data science, building up Python, SQL, and ML fundamentals while keeping my C/C++ foundations sharp through coursework and lab work.
 
