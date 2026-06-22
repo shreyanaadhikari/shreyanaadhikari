@@ -10,9 +10,9 @@
 
 ## About Me
 
-I'm a 4th semester BSc. CSIT student exploring the intersection of **data science** and **AI**. I like applying what I learn in class to small, real projects rather than leaving it on paper.
+I'm a 4th semester BSc. CSIT student building a strong foundation in **data science** and **AI**. I enjoy turning classroom concepts into practical projects and learning through hands-on work.
 
-I'm currently working toward a focused path in data science, building up Python, SQL, and ML fundamentals while keeping my C/C++ foundations sharp through coursework and lab work.
+My current focus is on Python, SQL, and machine learning fundamentals, while keeping my C/C++ base strong through coursework and lab projects.
 
 <br/>
 
@@ -70,7 +70,10 @@ A rocket launch simulation built to apply core Computer Graphics concepts — in
 
 ## Currently Learning
 
-🎯 Data Science career track — Python, SQL, and machine learning fundamentals, with an eye toward applied data analysis.
+- Data Science career track.
+- Python, SQL, and machine learning fundamentals.
+- Applied data analysis and project building.
+
 
 <br/>
 
