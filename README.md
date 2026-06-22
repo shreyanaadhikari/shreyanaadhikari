@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,50:1b3a6b,100:2563eb&height=230&section=header&text=Shreyana%20Adhikari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BSc%20CSIT%20Student%20%C2%B7%20St.%20Xavier's%20College,%20Kathmandu&descAlignY=56&descSize=17" width="100%"/>
+<br/>
+<a href="mailto:shreyanaadhikari@gmail.com">
+<img src="https://img.shields.io/badge/-shreyanaadhikari@gmail.com-0a1128?style=flat-square&logo=gmail" height="30"/>
+</a>
 <br/>
 
 <img src="https://img.shields.io/badge/-shreyanaadhikari@gmail.com-0a1128?style=flat-square&logo=gmail" height="60"/>
