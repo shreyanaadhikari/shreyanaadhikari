@@ -43,15 +43,38 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 
 ## Featured Projects
 
-**🏃 Fitaura** — [View Repo →](https://github.com/pandeysulav/SUMMER_PROJECT_CPP)
-A data-science-driven fitness tracker built around OOP principles in C++, with ML algorithms for predicting fitness trends and a Qt Widgets desktop interface. Built collaboratively.
-<br/>
-<img src="https://img.shields.io/badge/C++-0a1128?style=flat-square&logo=cplusplus" height="22"/> <img src="https://img.shields.io/badge/Qt-0a1128?style=flat-square&logo=qt" height="22"/> <img src="https://img.shields.io/badge/Machine_Learning-0a1128?style=flat-square" height="22"/> <img src="https://img.shields.io/badge/OOP-0a1128?style=flat-square" height="22"/>
+<table>
+<tr>
+<td>
 
-**🎨 CG-Project: Rocket Simulation** — [View Repo →](https://github.com/riwazzzz/CG-Project.git)
-A rocket launch simulation built to apply core Computer Graphics concepts — including 2D/3D transformations and animation rendering. Built collaboratively.
-<br/>
-<img src="https://img.shields.io/badge/Computer_Graphics-0a1128?style=flat-square" height="22"/> <img src="https://img.shields.io/badge/Animation-0a1128?style=flat-square" height="22"/>
+<h3>🏃 Fitaura</h3>
+
+> Data-science-driven fitness tracker built in C++ using OOP principles, ML algorithms for trend prediction, and a Qt Widgets desktop interface.
+
+![C++](https://img.shields.io/badge/C++-0a1128?style=flat-square&logo=cplusplus)
+![Qt](https://img.shields.io/badge/Qt-0a1128?style=flat-square&logo=qt)
+![ML](https://img.shields.io/badge/Machine_Learning-0a1128?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-0a1128?style=flat-square)
+
+[**→ View Repository**](https://github.com/pandeysulav/SUMMER_PROJECT_CPP)
+
+</td>
+</tr>
+<tr>
+<td>
+
+<h3>🎨 CG-Project: Rocket Simulation</h3>
+
+> A rocket launch simulation applying core Computer Graphics concepts — 2D/3D transformations and real-time animation rendering. Built collaboratively.
+
+![CG](https://img.shields.io/badge/Computer_Graphics-0a1128?style=flat-square)
+![Animation](https://img.shields.io/badge/Animation-0a1128?style=flat-square)
+
+[**→ View Repository**](https://github.com/riwazzzz/CG-Project.git)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
