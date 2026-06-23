@@ -91,17 +91,17 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 
 ## Currently Learning & Building Towards
 
-I'm on a deliberate path toward data science — not just studying it, but actively building the foundations that make someone genuinely useful in the field.
+I'm on a deliberate path toward data science, not just studying it, but actively building the foundations that make someone genuinely useful in the field.
 
-**Exploratory Data Analysis** &nbsp;·&nbsp; Working through real datasets (IMDB, and more to come) using Python, Pandas, NumPy, Matplotlib, and Seaborn — learning to ask the right questions before touching the data.
+**Exploratory Data Analysis** &nbsp;·&nbsp; Working through real datasets (IMDB, and more to come) using Python, Pandas, NumPy, Matplotlib, and Seaborn. Learning to ask the right questions before touching the data.
 
-**Artificial Intelligence** &nbsp;·&nbsp; Coursework covering intelligent agent design, search algorithms, knowledge representation, and decision-making systems — building intuition for how AI actually works under the hood.
+**Artificial Intelligence** &nbsp;·&nbsp; Coursework is covering intelligent agent design, search algorithms, knowledge representation, and decision-making system. But I am building intuition for how AI actually works under the hood.
 
-**Database Systems** &nbsp;·&nbsp; Structured SQL practice through lab work on real schemas — querying, filtering, joining, and thinking relationally.
+**Database Systems** &nbsp;·&nbsp; Structured SQL practice through lab work on real schemas, querying, filtering, joining, and thinking relationally.
 
-**Machine Learning** &nbsp;·&nbsp; Beginning to bridge theory and application — from OOP-based ML implementations in C++ to understanding the math that makes models learn.
+**Machine Learning** &nbsp;·&nbsp; Beginning to bridge theory and application from OOP-based ML implementations in C++ to understanding the math that makes models learn.
 
-**The bigger picture** &nbsp;·&nbsp; Every project, lab, and commit here is working toward one goal: becoming a data scientist who understands the full pipeline — from raw, messy data to decisions that actually matter.
+**The bigger picture** &nbsp;·&nbsp; Every project, lab, and commit here is working towards one goal: becoming a data scientist who understands the full pipeline from raw, messy data to decisions that actually matter.
 
 
 <br/>
