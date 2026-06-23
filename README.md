@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,50:1b3a6b,100:2563eb&height=230&section=header&text=Shreyana%20Adhikari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BSc.%20CSIT%20Student%20%C2%B7%20St.%20Xavier's%20College,%20Kathmandu&descAlignY=56&descSize=17" width="100%"/>
-
 <br/>
 
 <img src="https://img.shields.io/badge/-shreyanaadhikari@gmail.com-0a1128?style=flat-square&logo=gmail" height="60"/>
@@ -11,9 +10,9 @@
 
 ## About Me
 
-I'm a 4th semester BSc. CSIT student exploring the intersection of **data science** and **AI**. I like applying what I learn in class to small, real projects rather than leaving it on paper.
+I'm a 4th semester BSc. CSIT student building a strong foundation in **data science** and **AI**. I enjoy turning classroom concepts into practical projects and learning through hands-on work.
 
-I'm currently working toward a focused path in data science, building up Python, SQL, and ML fundamentals while keeping my C/C++ foundations sharp through coursework and lab work.
+My current focus is on Python, SQL, and machine learning fundamentals, while keeping my C/C++ base strong through coursework and lab projects.
 
 <br/>
 
@@ -44,15 +43,38 @@ I'm currently working toward a focused path in data science, building up Python,
 
 ## Featured Projects
 
-**🏃 Fitaura** — [View Repo →](https://github.com/pandeysulav/SUMMER_PROJECT_CPP)
-A data-science-driven fitness tracker built around OOP principles in C++, with ML algorithms for predicting fitness trends and a Qt Widgets desktop interface. Built collaboratively.
-<br/>
-<img src="https://img.shields.io/badge/C++-0a1128?style=flat-square&logo=cplusplus" height="22"/> <img src="https://img.shields.io/badge/Qt-0a1128?style=flat-square&logo=qt" height="22"/> <img src="https://img.shields.io/badge/Machine_Learning-0a1128?style=flat-square" height="22"/> <img src="https://img.shields.io/badge/OOP-0a1128?style=flat-square" height="22"/>
+<table>
+<tr>
+<td>
 
-**🎨 CG-Project: Rocket Simulation** — [View Repo →](https://github.com/riwazzzz/CG-Project.git)
-A rocket launch simulation built to apply core Computer Graphics concepts — including 2D/3D transformations and animation rendering. Built collaboratively.
-<br/>
-<img src="https://img.shields.io/badge/Computer_Graphics-0a1128?style=flat-square" height="22"/> <img src="https://img.shields.io/badge/Animation-0a1128?style=flat-square" height="22"/>
+<h3>🏃 Fitaura</h3>
+
+> Data-science-driven fitness tracker built in C++ using OOP principles, ML algorithms for trend prediction, and a Qt Widgets desktop interface.
+
+![C++](https://img.shields.io/badge/C++-0a1128?style=flat-square&logo=cplusplus)
+![Qt](https://img.shields.io/badge/Qt-0a1128?style=flat-square&logo=qt)
+![ML](https://img.shields.io/badge/Machine_Learning-0a1128?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-0a1128?style=flat-square)
+
+[**→ View Repository**](https://github.com/pandeysulav/SUMMER_PROJECT_CPP)
+
+</td>
+</tr>
+<tr>
+<td>
+
+<h3>🎨 CG-Project: Rocket Simulation</h3>
+
+> A rocket launch simulation applying core Computer Graphics concepts — 2D/3D transformations and real-time animation rendering. Built collaboratively.
+
+![CG](https://img.shields.io/badge/Computer_Graphics-0a1128?style=flat-square)
+![Animation](https://img.shields.io/badge/Animation-0a1128?style=flat-square)
+
+[**→ View Repository**](https://github.com/riwazzzz/CG-Project.git)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -71,7 +93,10 @@ A rocket launch simulation built to apply core Computer Graphics concepts — in
 
 ## Currently Learning
 
-🎯 Data Science career track — Python, SQL, and machine learning fundamentals, with an eye toward applied data analysis.
+- Data Science career track.
+- Python, SQL, and machine learning fundamentals.
+- Applied data analysis and project building.
+
 
 <br/>
 
