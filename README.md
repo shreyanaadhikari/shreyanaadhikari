@@ -89,11 +89,19 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 
 <br/>
 
-## Currently Learning
+## Currently Learning & Building Towards
 
-- Data Science career track.
-- Python, SQL, and machine learning fundamentals.
-- Applied data analysis and project building.
+🎯 &nbsp;Pursuing a focused path in **Data Science** — working through the full stack from raw data to insight.
+
+📊 &nbsp;Deepening expertise in **Exploratory Data Analysis** using Python, Pandas, NumPy, Matplotlib and Seaborn — with real datasets like IMDB Movie Data.
+
+🤖 &nbsp;Studying **AI & Machine Learning** fundamentals as part of my BSc CSIT coursework — covering agent architectures, search algorithms, and intelligent systems.
+
+🗄️ &nbsp;Strengthening **SQL & Database** skills through hands-on lab work with MySQL on real-world schemas.
+
+🏗️ &nbsp;Building a **project portfolio** that reflects genuine technical depth — not just coursework, but applied problem solving.
+
+💡 &nbsp;Long-term goal: transition into a **data scientist role** where I can turn messy, real-world data into decisions that actually matter.
 
 
 <br/>
