@@ -12,60 +12,32 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 
 <div align="center">
 
-**💻 Languages**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,mysql,css&theme=dark" />
 
-<sub>C &nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp; CSS</sub>
-
-<br/><br/>
-
-**🗄️ Database**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
-<sub>MySQL</sub>
+<sub>C &nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp; MySQL &nbsp;&nbsp;&nbsp;&nbsp; CSS</sub>
 
 <br/><br/>
 
-**📊 Data Science & Analysis**
+**Tools**
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logoColor=white" height="36"/>
-<img src="https://img.shields.io/badge/EDA-0a1128?style=for-the-badge&logoColor=white" height="36"/>
+<img src="https://skillicons.dev/icons?i=git,github,ps,qt&theme=dark" />
+
+<sub>Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; Photoshop &nbsp;&nbsp;&nbsp;&nbsp; Qt</sub>
 
 <br/><br/>
 
-**🤖 AI & Machine Learning**
+**Also working with**
 
-<img src="https://img.shields.io/badge/Machine_Learning-0a1128?style=for-the-badge&logoColor=white" height="36"/>
-<img src="https://skillicons.dev/icons?i=qt&theme=dark" />
-
-<sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Qt</sub>
-
-<br/><br/>
-
-**🛠️ Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-
-<sub>Git &nbsp;&nbsp;&nbsp; GitHub</sub>
-
-<br/><br/>
-
-**🎨 Design**
-
-<img src="https://skillicons.dev/icons?i=ps&theme=dark" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="48"/>
-
-<sub>Photoshop</sub>
+<img src="https://img.shields.io/badge/NumPy-0a1128?style=for-the-badge&logo=numpy&logoColor=4DABCF" height="36"/>
+<img src="https://img.shields.io/badge/Pandas-0a1128?style=for-the-badge&logo=pandas&logoColor=E70488" height="36"/>
+<img src="https://img.shields.io/badge/Matplotlib-0a1128?style=for-the-badge&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Seaborn-0a1128?style=for-the-badge&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-0a1128?style=for-the-badge&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Canva-0a1128?style=for-the-badge&logoColor=white" height="36"/>
 
 </div>
-
-<br/>
 
 ## Featured Projects
 
