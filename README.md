@@ -18,7 +18,7 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 
 <sub>C &nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp; MySQL &nbsp;&nbsp;&nbsp;&nbsp; CSS</sub>
 
-<br/><br/>
+<br/>
 
 **Tools**
 
@@ -26,7 +26,7 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 
 <sub>Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; Photoshop &nbsp;&nbsp;&nbsp;&nbsp; Qt</sub>
 
-<br/><br/>
+<br/>
 
 **Also working with**
 
