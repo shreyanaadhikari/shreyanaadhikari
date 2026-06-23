@@ -91,17 +91,17 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 
 ## Currently Learning & Building Towards
 
-🎯 &nbsp;Pursuing a focused path in **Data Science** — working through the full stack from raw data to insight.
+I'm on a deliberate path toward data science — not just studying it, but actively building the foundations that make someone genuinely useful in the field.
 
-📊 &nbsp;Deepening expertise in **Exploratory Data Analysis** using Python, Pandas, NumPy, Matplotlib and Seaborn — with real datasets like IMDB Movie Data.
+**Exploratory Data Analysis** &nbsp;·&nbsp; Working through real datasets (IMDB, and more to come) using Python, Pandas, NumPy, Matplotlib, and Seaborn — learning to ask the right questions before touching the data.
 
-🤖 &nbsp;Studying **AI & Machine Learning** fundamentals as part of my BSc CSIT coursework — covering agent architectures, search algorithms, and intelligent systems.
+**Artificial Intelligence** &nbsp;·&nbsp; Coursework covering intelligent agent design, search algorithms, knowledge representation, and decision-making systems — building intuition for how AI actually works under the hood.
 
-🗄️ &nbsp;Strengthening **SQL & Database** skills through hands-on lab work with MySQL on real-world schemas.
+**Database Systems** &nbsp;·&nbsp; Structured SQL practice through lab work on real schemas — querying, filtering, joining, and thinking relationally.
 
-🏗️ &nbsp;Building a **project portfolio** that reflects genuine technical depth — not just coursework, but applied problem solving.
+**Machine Learning** &nbsp;·&nbsp; Beginning to bridge theory and application — from OOP-based ML implementations in C++ to understanding the math that makes models learn.
 
-💡 &nbsp;Long-term goal: transition into a **data scientist role** where I can turn messy, real-world data into decisions that actually matter.
+**The bigger picture** &nbsp;·&nbsp; Every project, lab, and commit here is working toward one goal: becoming a data scientist who understands the full pipeline — from raw, messy data to decisions that actually matter.
 
 
 <br/>
