@@ -61,7 +61,7 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 <tr>
 <td>
 
-<h3>🎨 CG-Project: Rocket Simulation</h3>
+<h3>🎨 Solar Odssey</h3>
 
 > A rocket launch simulation applying core Computer Graphics concepts — 2D/3D transformations and real-time animation rendering. Built collaboratively.
 
