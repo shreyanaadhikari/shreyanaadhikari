@@ -58,7 +58,6 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 
 </td>
 </tr>
-<tr>
 <td>
 
 <h3>🎨 Solar Odyssey</h3>
