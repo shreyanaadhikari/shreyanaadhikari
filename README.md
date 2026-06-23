@@ -110,6 +110,4 @@ I'm on a deliberate path toward data science, not just studying it, but actively
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0a1128&height=120&section=footer"/>
 
-**Open to connecting — reach out via email above.**
-
 </div>
