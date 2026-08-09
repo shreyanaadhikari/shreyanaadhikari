@@ -99,7 +99,7 @@ I'm on a deliberate path toward data science, not just studying it, but actively
 
 **Machine Learning** &nbsp;:&nbsp; Beginning to bridge theory and application from OOP-based ML implementations in C++ to understanding the math that makes models learn.
 
-**Every project, lab, and commit here is working towards one goal: becoming a data scientist who understands the full pipeline from raw, messy data to decisions that actually matter.**
+**Every project, lab, and commit here is working towards one goal: becoming a person who understands the full pipeline of how a product is built from raw, from messy data to decisions that actually matter.**
 
 
 <br/>
