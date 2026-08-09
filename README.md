@@ -44,6 +44,26 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 <table>
 <tr>
 <td>
+<!-- BoliKawach -->
+<div class="project">
+    <h3>🛡️ BoliKawach</h3>
+
+    <blockquote>
+        An AI-powered Nepali hate-speech detection system using machine learning
+        to identify offensive content across social media platforms.
+    </blockquote>
+
+    <div class="tags">
+        <span>Python</span>
+        <span>Machine Learning</span>
+        <span>NLP</span>
+        <span>Browser Extension</span>
+    </div>
+
+    <a href="https://github.com/riwazzzz/BoliKawach.git" target="_blank">
+        → View Repository
+    </a>
+</div>
 
 <h3>🏃 Fitaura</h3>
 
