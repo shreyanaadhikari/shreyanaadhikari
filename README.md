@@ -89,7 +89,7 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 
 ## Currently Learning & Building Towards
 
-I'm on a deliberate path toward data science, not just studying it, but actively building the foundations that make someone genuinely useful in the field.
+I'm on a deliberate path towards understanding products and computer science, not just studying it, but actively building the foundations that makes someone genuinely useful in any field.
 
 **Exploratory Data Analysis** &nbsp;:&nbsp; Working through real datasets (IMDB, and more to come) using Python, Pandas, NumPy, Matplotlib, and Seaborn. Learning to ask the right questions before touching the data.
 
