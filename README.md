@@ -40,6 +40,18 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 </div>
 
 ## Featured Projects
+<tr>
+<td>
+<h3>🛡️ BoliKawach</h3>
+> Nepali-language hate speech on social media (Facebook, Instagram, YouTube) is rarely covered by existing moderation tools, which are built primarily for English. BoliKawach closes that gap by scanning visible comments on supported platforms, running them through a trained hate speech classifier, and visually flagging hateful content directly on the page.
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-0a1128?style=flat-square&logo=googlechrome)
+![NLP](https://img.shields.io/badge/NLP-0a1128?style=flat-square)
+![ML](https://img.shields.io/badge/Machine_Learning-0a1128?style=flat-square)
+![Nepali](https://img.shields.io/badge/Nepali_Language-0a1128?style=flat-square)
+[**→ View Repository**](https://github.com/riwazzzz/BoliKawach.git)
+[**→ View Extension Build Process**](https://github.com/shreyanaadhikari/BoliKawach-Google-Extension-BuildingProcess-from-start.git)
+</td>
+</tr>
 
 <table>
 <tr>
