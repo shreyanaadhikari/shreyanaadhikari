@@ -52,7 +52,7 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 ![ML](https://img.shields.io/badge/Machine_Learning-0a1128?style=flat-square)
 ![Nepali](https://img.shields.io/badge/Nepali_Language-0a1128?style=flat-square)
 
-[**→ View Repository**](https://github.com/riwazzzz/BoliKawach.git)
+[**→ View Repository**](https://github.com/riwazzzz/BoliKawach.git) <br>
 [**→ View Extension Build Process**](https://github.com/shreyanaadhikari/BoliKawach-Google-Extension-BuildingProcess-from-start.git)
 
 </td>
