@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a 4th semester BSc. CSIT student building a strong foundation in **data science** and **AI**. I enjoy turning classroom concepts into practical projects and learning through hands-on work.
+I'm a 4th semester BSc. CSIT student building a strong foundation in **data science**, **AI** and **ML**. I enjoy turning classroom concepts into practical projects and learning through hands-on work.
 
 My current focus is on Python, SQL, and machine learning fundamentals, while keeping my C/C++ base strong through coursework and lab projects.
 
