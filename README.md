@@ -92,7 +92,8 @@ My current focus is on Python, SQL, and machine learning fundamentals, while kee
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanaadhikari&theme=tokyonight&hide_border=true&background=0a1128&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="49%"/>
+<img src="https://streak-stats.demolab.com/
+user=shreyanaadhikari&theme=tokyonight&hide_border=true&background=0a1128&ring=2563eb&fire=2563eb&currStreakLabel=2563eb" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanaadhikari&theme=tokyo-night&hide_border=true&bg_color=0a1128&color=2563eb&line=2563eb&point=ffffff" width="98%"/>
 
